@@ -1,7 +1,7 @@
-# ⌚ WristCrafters  
+# WristCrafters  
 ### Smartwatch Text Entry Interface (CMU Graphics / Processing)
 
-## 🔍 Project Overview
+## Project Overview
 
 **WristCrafters** is a smartwatch text entry system designed and implemented using **Processing (CMU Graphics)**. The project explores how users can efficiently and accurately type text on a **small, constrained smartwatch screen**, focusing on interaction design, usability, and iterative improvement through user studies.
 
@@ -9,7 +9,7 @@ The system was developed through multiple prototypes, user testing rounds, and r
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Design a **fast and accurate smartwatch text entry method**
 - Explore alternatives to traditional QWERTY keyboards on small screens
@@ -18,7 +18,7 @@ The system was developed through multiple prototypes, user testing rounds, and r
 
 ---
 
-## 🧩 Core Features
+## Core Features
 
 ### Text Entry Interface
 - Letters arranged around the smartwatch screen
@@ -43,7 +43,7 @@ The system was developed through multiple prototypes, user testing rounds, and r
 
 ---
 
-## 🧪 User Studies & Evaluation
+## User Studies & Evaluation
 
 The system was evaluated through **multiple rounds of user testing**, including think-aloud studies, surveys, and interviews.
 
@@ -61,7 +61,7 @@ The system was evaluated through **multiple rounds of user testing**, including 
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Language:** Processing (Java-based)
 - **Framework:** CMU Graphics
@@ -73,7 +73,7 @@ The system was evaluated through **multiple rounds of user testing**, including 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open `TextEntryScaffold.pde` in **Processing**
 2. Run the sketch
@@ -82,7 +82,7 @@ The system was evaluated through **multiple rounds of user testing**, including 
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 This project was developed as part of a **Human-Computer Interaction / Interaction Design coursework**.  
 The focus was on:
@@ -93,7 +93,7 @@ The focus was on:
 
 ---
 
-## 👥 Team
+## Team
 
 **WristCrafters (Group 9)**  
 - Aisha Almuhannadi  
@@ -102,7 +102,7 @@ The focus was on:
 
 ---
 
-## 📌 Key Takeaways
+## Key Takeaways
 
 - Iterative design and user feedback dramatically improve usability
 - Small visual and audio cues can have a large impact on interaction quality
@@ -110,7 +110,7 @@ The focus was on:
 
 ---
 
-## 📄 Notes
+## Notes
 
 This repository is intended for **educational and portfolio demonstration purposes** and showcases applied skills in:
 - Interaction design
